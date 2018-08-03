@@ -1,1 +1,1 @@
-# knights-travails
+Following a knight on his quest to travel on a 8x8 grid in Ruby following The Odin Project.
